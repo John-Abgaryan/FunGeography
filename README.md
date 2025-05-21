@@ -1,13 +1,15 @@
-# Fun Geography Facts - Γεωγραφικά Fun Facts! 🌍
+# Fun Geography Facts - Γεωγραφικά ! 🌍
 
-Καλώς ήρθατε στην ιστοσελίδα μας! Welcome to our page!
+![Fun Geography Facts Screenshot](image.png)
 
-## Πώς να το χρησιμοποιήσετε (How to Use)
+Καλώς ήρθατε στην ιστοσελίδα μας!
+
+## Πώς να το χρησιμοποιήσετε
 
 Είναι πανεύκολο! It's super easy!
 
-1.  Απλά πατήστε το κουμπί **"Get a Fun Fact!"** (Just press the button "Get a Fun Fact!").
-2.  Ένα τυχαίο, διασκεδαστικό γεωγραφικό γεγονός θα εμφανιστεί! (A random, fun geography fact will appear!)
-3.  Εξερευνήστε τον κόσμο, ένα fun fact τη φορά! (Explore the world, one fun fact at a time!)
+1.  Απλά πατήστε το κουμπί **"Get a Fun Fact!"**.
+2.  Ένα τυχαίο, διασκεδαστικό γεωγραφικό γεγονός θα εμφανιστεί!
+3.  Εξερευνήστε τον κόσμο, ένα fun fact τη φορά!
 
-Καλή διασκέδαση! Have fun! ✨
+Καλή διασκέδαση!✨!
