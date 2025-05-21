@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Geography Facts</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏞️</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="background-layer"></div>
+    <div id="custom-cursor"></div>
+    <div id="shadow-cursor"></div>
+    <div class="container">
+        <h1>Fun Geography Facts</h1>
+        <button id="factButton">Get a Fun Fact!</button>
+    </div>
+    <div class="fact-window-container">
+        <p id="factDisplay">Click the button to see a fun fact.</p>
+    </div>
+    <script src="script.js"></script>
+    <footer>
+        <p>&copy; Ioannis Ampgkarian 2025</p>
+        <div class="footer-links">
+            <a href="https://github.com/John-Abgaryan" target="_blank" id="githubLink" aria-label="GitHub Profile">GitHub</a>
+            <button id="emailButton" aria-label="Show Email Address">Email</button>
+        </div>
+    </footer>
+
+    <div id="emailModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button" id="closeEmailModal">&times;</span>
+            <p>My email address is:</p>
+            <p id="emailDisplay">joniabgar24@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>
